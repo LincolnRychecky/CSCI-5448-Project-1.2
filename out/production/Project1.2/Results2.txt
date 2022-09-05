@@ -1,9 +1,0 @@
-Enter a string of valid alphabet characters. Enter empty string to confirm:
-Bruce
-Input complete.
-URECBCERU
-
-Enter a string of valid alphabet characters. Enter empty string to confirm:
-Lincoln Rychecky
-Input complete.
-YYRONNLLKIHECCCCCEHIKLLNNORYY
